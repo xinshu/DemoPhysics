@@ -1,4 +1,4 @@
 DemoPhysics
 ===========
 
-Demos to demonstrate to physical process.
+Demos to demonstrate physical process.
